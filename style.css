@@ -291,3 +291,115 @@ div.banner {
   background: #D0D5D9;
   margin: 0 5px 5px 0px;
 }
+
+.wrapper-content .timeline {
+  flex: 1;
+}
+
+.wrapper-content aside.widgets {
+  width: 290px;
+  margin-top: 10px;
+}
+
+.wrapper-content aside.widgets .widget {
+  padding: 15px;
+  background: #FFF;
+}
+
+.wrapper-content aside.widgets .widget .title {
+  display: flex;
+  align-items: baseline;
+}
+
+.wrapper-content aside.widgets .widget .title strong {
+  font-size: 18px;
+  color: #1F2226;
+}
+
+.wrapper-content aside.widgets .widget .title a {
+  color: #3BB9E3;
+  font-size: 12px;
+  position: relative;
+  text-decoration: none;
+  padding-left: 10px;
+}
+
+.wrapper-content aside.widgets .widget .title a::before {
+  content: "";
+  width: 2px;
+  height: 2px;
+  margin-left: 5px;
+  margin-right: 50px;
+  border-radius: 50%;
+  background: #222222;
+  position: absolute;
+  left: 2px;
+  top: 6px;
+}
+
+.wrapper-content aside.widgets .follow ul {
+  list-style: none;
+  margin-top: 10px;
+}
+
+.wrapper-content aside.widgets .follow ul li {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: 1px solid #CCD6DD;
+}
+
+.wrapper-content aside.widgets .follow ul li:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border: 0;
+}
+
+.wrapper-content aside.widgets .follow ul li .profile {
+  display: flex;
+  align-items: center;
+}
+
+.wrapper-content aside.widgets .follow ul li .profile img {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+}
+
+.wrapper-content aside.widgets .follow ul li .profile .info {
+  display: flex;
+  margin-left: 10px;
+  flex-direction: column;
+}
+
+.wrapper-content aside.widgets .follow ul li .profile .info strong {
+  font-size: 14px;
+  color: #1F2326;
+}
+
+.wrapper-content aside.widgets .follow ul li .profile .info strong span {
+  color: #9A9A9A;
+  font-weight: normal;
+}
+
+.wrapper-content aside.widgets .follow ul li .profile .info button {
+  height: 27px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 4px;
+  width: 90px;
+  font-weight: bold;
+  font-size: 14px;
+  color: #3BB9E3;
+  border-radius: 16px;
+  border: 1px solid #3BB9E3;
+  background: #FFF;
+}
+
+.wrapper-content aside.widgets .follow ul li > a {
+  color: #CCD6DD;
+  text-decoration: none;
+  font-size: 14px;
+}

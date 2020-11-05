@@ -10,6 +10,7 @@ body {
   font-family: "Helvetica Neue", "Helvetica", Arial, sans-serif;
   text-rendering: optimizeLegibility !important; /* font sempre com o melhor estilo possivel */
   -webkit-font-smoothing: antialiased !important; /* font sempre com o melhor estilo possivel */
+  padding-bottom: 100px;
 }
 
 .container {
@@ -294,6 +295,92 @@ div.banner {
 
 .wrapper-content .timeline {
   flex: 1;
+  background: #FFF;
+  margin: 10px 20px 0px;
+}
+
+.wrapper-content .timeline nav {
+  border-bottom: 1px solid #E6ECF0;
+  padding: 10px 15px;
+}
+
+.wrapper-content .timeline nav a {
+  text-decoration: none;
+  color: #3BB9E3;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.wrapper-content .timeline nav a:first-child {
+  margin: 0;
+}
+
+.wrapper-content .timeline nav a.active {
+  margin: 0;
+  color: #1f2226;
+}
+
+.wrapper-content .timeline nav a.tweets {
+  list-style: none;
+}
+
+.wrapper-content .timeline ul.tweets li {
+  border-bottom: 1px solid #e6ecf0;
+  padding: 10px 15px;
+  display: flex;
+}
+
+.wrapper-content .timeline ul.tweets li > img {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+}
+
+.wrapper-content .timeline ul.tweets li .info {
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper-content .timeline ul.tweets li .info strong {
+  font-size: 14px;
+  color: #1f2326; 
+}
+
+.wrapper-content .timeline ul.tweets li .info strong span {
+  font-size: 13px;
+  color: #1f2326; 
+  font-weight: normal;
+}
+
+.wrapper-content .timeline ul.tweets li .info p {
+  font-size: 14px;
+  color: #1f2326;
+  margin-top: 5px;
+}
+
+.wrapper-content .timeline ul.tweets li .actions {
+  display: flex;
+  margin-top: 20px;
+}
+
+.wrapper-content .timeline ul.tweets li .actions a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #667580;
+  font-weight: bold;
+  font-size: 12px;
+  margin-left: 30px;
+}
+
+.wrapper-content .timeline ul.tweets li .actions a:first-child {
+  margin-left: 0px;
+}
+
+.wrapper-content .timeline ul.tweets li .actions a img {
+  margin-right: 5px; 
 }
 
 .wrapper-content aside.widgets {

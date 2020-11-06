@@ -7,6 +7,9 @@ _English_
 `Web preview`
 ![](images/social-preview.gif)
 
+## 🕹 Deployment in
+https://devgabrieldejesus.github.io/twitter-profile
+
 ## 📈 Example usage
 
 I created this page to test my new knowledge with the CSS Flexible Box Layout, but known as Flexbox which is a CSS3 web layout template.
@@ -63,6 +66,9 @@ _Português_
 
 `Visualização da Web`
 ![](images/social-preview.gif)
+
+## 🕹 Teste aqui
+https://devgabrieldejesus.github.io/twitter-profile
 
 ## 📈 Exemplo de uso
 

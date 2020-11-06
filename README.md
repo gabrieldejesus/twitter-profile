@@ -5,7 +5,7 @@ _English_
 🐤 A clone of the profile page of a common user on twitter
 
 `Web preview`
-![](images/social-preview.gif)
+![](images/web-preview.gif)
 
 ## 🕹 Deployment in
 https://devgabrieldejesus.github.io/twitter-profile
@@ -65,7 +65,7 @@ _Português_
 🐤 Um clone da página de perfil de um usuário comum no Twitter
 
 `Visualização da Web`
-![](images/social-preview.gif)
+![](images/web-preview.gif)
 
 ## 🕹 Teste aqui
 https://devgabrieldejesus.github.io/twitter-profile

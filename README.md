@@ -1,117 +1,82 @@
-_English_
-
 # Twitter Profile
 
 🐤 A clone of the profile page of a common user on twitter
 
-`Web preview`
 ![](images/web-preview.gif)
 
 ## 🕹 Deployment in
 https://devgabrieldejesus.github.io/twitter-profile
 
-## 📈 Example usage
+<p align="center">
+  <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=WELCOME&style=for-the-badge&color=3BB9E3&labelColor=222222" />
+     
+   <img alt="Stars" src="https://img.shields.io/github/stars/gabrieldejesus/twitter-profile?color=3BB9E3&label=STARS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+
+   <img alt="Forks" src="https://img.shields.io/github/forks/gabrieldejesus/twitter-profile?color=3BB9E3&label=FORKS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+
+   <img alt="Issues" src="https://img.shields.io/github/issues/gabrieldejesus/twitter-profile?color=3BB9E3&label=ISSUES&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+
+   <img alt="GitHub license" src="https://img.shields.io/github/license/gabrieldejesus/twitter-profile?color=3BB9E3&label=LICENSE&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
+
+  <a href="https://github.com/gabrieldejesus">
+    <img alt="Follow gabrieldejesus" src="https://img.shields.io/static/v1?label=Follow&message=gabrieldejesus&style=for-the-badge&color=3BB9E3&labelColor=222222" />
+  </a>
+</p>
+
+## 🕹 Test here
+
+https://gabrieldesenvolvedor.com/projects/twitter-profile
+
+## 📈 Example of use
 
 I created this page to test my new knowledge with the CSS Flexible Box Layout, but known as Flexbox which is a CSS3 web layout template.
 
 The flexible layout allows responsive elements within a container to be organized automatically, depending on the size of the screen.
 
-## 💻 Configuation for Development
+## 🛠 Getting started
 
 Windows:
 
 You can clone the repository through CMD (Command Prompt) just by typing:
 
 ```sh
-git clone https://github.com/devgabrieldejesus/twitter-profile
+git clone https://github.com/gabrieldejesus/twitter-profile
 ```
 
 or download the zip from the green button at the beginning of the repository
 
-![](images/clone.png)
+<img src="https://i.ibb.co/3mLnKMH/clone.png" alt="Download zip" border="0">
 
-![](images/clone-zip.png)
+<img src="https://i.ibb.co/3M5CXKm/clone-zip.png" alt="Download zip" border="0">
+
+## 💻 Configuration for development
+
+To run the project just run the file: `index.html`, type a text in the text area and click on read.
 
 ## 🗃 Release history
 
-* 0.1.0
-    * Project finalized and studying the possibility of adding new resources
-    * The first suitable launch
-* 0.0.1
-    * Work in progress
+- 0.1.0
+  - Project finalized and studying the possibility of adding new resources
+  - The first suitable lauch
+- 0.0.1
+  - Work in progress
 
 ## 📝 Meta
 
-Gabriel de Jesus – [My portfolio](https://gabrieldesenvolvedor.com/) – oi@gabrieldesenvolvedor.com
+Gabriel de Jesus – [My portfolio](https://gabrieldesenvolvedor.com) – devgabrieldejesus@gmail.com
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
-[https://github.com/devgabrieldejesus/twitter-profile](https://github.com/devgabrieldejesus/)
+[https://github.com/gabrieldejesus/twitter-profile](https://github.com/gabrieldejesus)
 
-## 🚀 Contributing
+## 🚀 Contribution
 
-1. Fork it (<https://github.com/devgabrieldejesus/twitter-profile/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
+1. Make the _fork_ of the project (<https://github.com/gabrieldejesus/twitter-profile/fork>)
+2. Create a _branch_ for your modification (`git checkout -b my-new-resource`)
+3. Do _commit_ (`git commit -am 'Adding a new resource ...'`)
+4. _Push_ (`git push origin my-new-feature`)
+5. Create a new _Pull Request_
+
+**After your pull request is merged**, you can safely delete your branch.
 
 ---
-
-_Português_
-
-# Perfil do Twitter
-
-🐤 Um clone da página de perfil de um usuário comum no Twitter
-
-`Visualização da Web`
-![](images/web-preview.gif)
-
-## 🕹 Teste aqui
-https://devgabrieldejesus.github.io/twitter-profile
-
-## 📈 Exemplo de uso
-
-Criei esta página para testar meus novos conhecimentos com o CSS Flexible Box Layout, mas conhecido como Flexbox, que é um template de layout web CSS3.
-
-O layout flexível permite que os elementos responsivos em um contêiner sejam organizados automaticamente, dependendo do tamanho da tela.
-
-## 💻 Configuração para desenvolvimento
-
-Windows:
-
-Você pode clonar o repositório por meio do CMD (Prompt de Comando) apenas digitando:
-
-```sh
-git clone https://github.com/devgabrieldejesus/twitter-profile
-```
-
-ou baixe o zip do botão verde no início do repositório
-
-![](images/clone.png)
-
-![](images/clone-zip.png)
-
-## 🗃 Histórico de lançamento
-
-* 0.1.0
-    * Projeto finalizado e estudando a possibilidade de agregar novos recursos
-    * O primeiro lançamento adequado
-* 0.0.1
-    * Trabalho em progresso
-
-## 📝 Meta
-
-Gabriel de Jesus - [Meu portfólio](https://gabrieldesenvolvedor.com/) - oi@gabrieldesenvolvedor.com
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
-[https://github.com/devgabrieldejesus/twitter-profile](https://github.com/devgabrieldejesus/)
-
-## 🚀 Contribuindo
-
-1. Fork it (<https://github.com/devgabrieldejesus/twitter-profile/fork>)
-2. Crie seu branch de recurso (`git checkout -b feature / fooBar`)
-3. Faça commit de suas alterações (`git commit -am 'Add some fooBar'`)
-4. Empurre para o branch (`git push origin feature / fooBar`)
-5. Crie uma nova solicitação pull

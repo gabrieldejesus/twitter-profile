@@ -4,9 +4,6 @@
 
 ![](images/web-preview.gif)
 
-## 🕹 Deployment in
-https://devgabrieldejesus.github.io/twitter-profile
-
 <p align="center">
   <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=WELCOME&style=for-the-badge&color=3BB9E3&labelColor=222222" />
      

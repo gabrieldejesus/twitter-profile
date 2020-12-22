@@ -22,7 +22,7 @@
 
 ## 🕹 Test here
 
-https://gabrieldesenvolvedor.com/projects/twitter-profile
+https://gabrieldejesus.github.io/twitter-profile
 
 ## 📈 Example of use
 
